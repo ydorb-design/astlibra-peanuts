@@ -1,0 +1,19 @@
+# Never commit game data, keys, firmware or anything built from them
+*.nsp
+*.nsz
+*.xci
+*.xcz
+*.nup
+*.keys
+*.zip
+*.ipa
+*.apk
+*.log
+dump/
+heads/
+split/
+*_build/
+*_survey/extract/
+*-work/
+android-pack/
+glslc_capture/
