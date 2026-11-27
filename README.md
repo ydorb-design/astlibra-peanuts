@@ -10,7 +10,7 @@ This repo holds notes and, later, draft profile files. It never holds game files
 
 Phase 0, survey: done. See [notes/01-survey.md](notes/01-survey.md).
 
-Phase 1, shaderless test build and GLSLC capture on the AYN Thor: next. See [notes/02-plan.md](notes/02-plan.md).
+Phase 1, shaderless test build and GLSLC capture: done, 30 shaders captured. See [notes/03-first-boot.md](notes/03-first-boot.md).
 
 ## Game
 
