@@ -12,6 +12,8 @@ Phase 0, survey: done. See [notes/01-survey.md](notes/01-survey.md).
 
 Phase 1, shaderless test build and GLSLC capture: done, 30 shaders captured. See [notes/03-first-boot.md](notes/03-first-boot.md).
 
+Phase 1b, real shaders and the texture pool fix: plays with correct graphics on the Thor. See [notes/04-shaders-and-texture-pools.md](notes/04-shaders-and-texture-pools.md).
+
 ## Game
 
 | | |
